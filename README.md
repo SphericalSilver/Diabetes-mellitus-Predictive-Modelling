@@ -25,3 +25,7 @@ Some future improvements to improve our model's effectiveness could be:
 - Using a larger data-set - ideally one from Singapore.
 - Think of a different way to convert predicted Diabetes Probability into Risk Index.
 - Deploy the model online as a Web App, possibly using RStudios. 
+
+### Images
+
+![Prediction](https://i.gyazo.com/40c209e5563e2450e0c4150269405c9f.png)
