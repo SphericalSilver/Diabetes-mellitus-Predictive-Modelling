@@ -12,6 +12,16 @@ At the end of the file, you'll be required to enter your health indicators, such
 
 The prevalence of Diabetes in Singapore (10.5%) is not only higher than the world average (8.8%), but is also [ever increasing](https://www.healthhub.sg/a-z/diseases-and-conditions/626/diabetes). 
 
-According to the World Health Organization (WHO), apart from prevention, [early diagnosis is one of the most effective ways](https://www.who.int/en/news-room/fact-sheets/detail/diabetes) to minimize the burden caused by diabetes. Our objective here was therefore to train a predictive model using the available data to learn what the profile of a person afflicted with Diabetes looks like. This model will then receive the profile of an untested individual, and based on that person's health indicators, measure the similarity of their profile against that of a person with diabetes, and assign that person a value that represents their predicted risk of having Diabetes.
+According to the World Health Organization (WHO), apart from prevention, [early diagnosis is one of the most effective ways](https://www.who.int/en/news-room/fact-sheets/detail/diabetes) to minimize the burden caused by diabetes. Our objective here was therefore to train a predictive model using the available data to learn what the profile of a person afflicted with Diabetes looks like. This model would then receive the profile of an untested individual, and based on that person's health indicators, measure the similarity of their profile against that of a person with diabetes, and assign that person a value that represents their predicted risk of having Diabetes.
 
 By better educating individuals on their diabetes risk factor, the disease can be diagnosed and tackled earlier. The predictive model serves as a means to impart (possibly life-saving) health literacy to its users.
+
+## Future Improvements
+
+Some future improvements to improve our model's effectiveness could be:
+- Use an error metric other than accuracy score, like f1 score or precision.
+- Use domain knowledge (acquired from a Doctor or another more qualified person) to make better choices about feature engineering.
+- Doing the prediction with algorithms like Neural Networks instead of Logistic Regression. 
+- Using a larger data-set - ideally one from Singapore.
+- Think of a different way to convert predicted Diabetes Probability into Risk Index.
+- Deploy the model online as a Web App, possibly using RStudios. 
