@@ -20,7 +20,7 @@ By better educating individuals on their diabetes risk factor, the disease can b
 
 Some future improvements to improve our model's effectiveness could be:
 - Use an error metric other than accuracy score, like f1 score or precision.
-- Use domain knowledge (acquired from a Doctor or another more qualified person) to make better choices about feature engineering.
+- Use domain knowledge (acquired from a Doctor or another more qualified person) to make better choices about feature engineering/selection. The weightage of each health indicator could also be tuned better using domain knowledge.
 - Doing the prediction with algorithms like Neural Networks instead of Logistic Regression. 
 - Using a larger data-set - ideally one from Singapore.
 - Think of a different way to convert predicted Diabetes Probability into Risk Index.
