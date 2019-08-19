@@ -1,4 +1,4 @@
-# Diabetes mellitus Predictive Modelling
+# Diabetes mellitus Risk Prediction
 Profiles of healthy people and diabetic people were analyzed and used to build a predictive model to gauge the diabetes risk index of an untested person.
 
 The [dataset](https://www.kaggle.com/johndasilva/diabetes/downloads/diabetes.zip/1) we worked with was acquired from a hospital in Frankfurt, Germany. It contains a profile of health indicators such as BMI, Age, and Blood Glucose levels of individuals with and without Diabetes.
