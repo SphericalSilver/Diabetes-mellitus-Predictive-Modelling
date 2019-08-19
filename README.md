@@ -29,4 +29,4 @@ Some future improvements to improve our model's effectiveness could be:
 
 ### Images
 
-![Prediction](https://i.gyazo.com/40c209e5563e2450e0c4150269405c9f.png)
+![Prediction Example](https://i.gyazo.com/40c209e5563e2450e0c4150269405c9f.png)
