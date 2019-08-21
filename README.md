@@ -16,7 +16,7 @@ According to the World Health Organization (WHO), apart from prevention, [early 
 
 By better educating individuals on their diabetes risk factor, the disease can be diagnosed and tackled earlier. The predictive model serves as a means to impart (possibly life-saving) health literacy to its users.
 
-## Future Improvements
+## Possible improvements
 
 Some future improvements to improve our model's effectiveness could be:
 - Use an error metric other than accuracy score, like f1 score or precision.
@@ -45,6 +45,8 @@ This would reap the following additional benefits:
 - Trends could be observed between medications taken, and how long the illness took to subside. 
 
 ### Long-term Vision
--	The long term vision of this goal would be to have a system in place where a user could look back on their last 10 years of health history, and view summary information like what was their highest peak fever in a certain year, what was the longest period of time in those 10 years that they went without having any illness (which might indicate to them that they were living a healthier lifestyle in that time), what period of time they had the most number of illnesses in, the kind of medications they took most frequently, etc.
+The long term vision of this goal would be to have a system in place where a user could look back on their last 10 years of health history, and view summary information like what was their highest peak fever in a certain year, what was the longest period of time in those 10 years that they went without having any illness (which might indicate to them that they were living a healthier lifestyle in that time), what period of time they had the most number of illnesses in, the kind of medications they took most frequently, etc.
+
+The following benefits would also be likely:
 - For medical professionals, this data could also improve invaluable in understanding patient profiles that make them more susceptible to various illnesses later in life. 
 - With enough data collected, Data Scientists could use this information to implement predictive algorithms like Neural Networks to predict the occurrence and the course of an illness ahead of time.
