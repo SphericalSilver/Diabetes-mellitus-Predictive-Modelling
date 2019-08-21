@@ -6,7 +6,7 @@ The [dataset](https://www.kaggle.com/johndasilva/diabetes/downloads/diabetes.zip
 ## How to Run
 Download the file and run on Jupyter Notebook.
 
-At the end of the file, you'll be required to enter your health indicators, such as your BMI, Blood Glucose levels, Age, etc. The predictive model will return a Diabetes Risk Index and give a short health recommendation based on that.
+At the bottom of the file, you'll be required to enter your health indicators, such as your BMI, Blood Glucose levels, Age, etc. The predictive model will return a Diabetes Risk Index and give a short health recommendation based on that.
 
 ## Project Goal
 
@@ -24,7 +24,7 @@ Some future improvements to improve our model's effectiveness could be:
 - Doing the prediction with algorithms like Neural Networks instead of Logistic Regression. 
 - Using a larger data-set - ideally one from Singapore.
 - Think of a different way to convert predicted Diabetes Probability into Risk Index.
-- Deploy the model online as a Web App, possibly using RStudios. 
+- Deploy the model online as a Web App, possibly using Flask, or RStudios/Shiny. 
 - Right now, blood glucose levels might not be properly standardized. We don't know if they represent the average blood glucose level over a week, or whether it was taken at a single point randomly in the day. In the latter case, it would be greatly susceptible to the time of the day it was taken, so factors like whether the person just had a meal might change it substantially. 
 
 ### Images
