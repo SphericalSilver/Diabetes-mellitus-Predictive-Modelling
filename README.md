@@ -35,17 +35,17 @@ Some future improvements to improve our model's effectiveness could be:
 ## Future Expansions + Scope
 
 ### Incorporation of Sickness Diary for the Web-App
-In the spirit of preventiveness, a program such as this could be incorporated into an App along with a sickness diary, that also tracked other illnesses, where the patient can enter info on when they were sick, as well details of the sickness and such. For instance if they had a fever, the app would also prompt them to record the temperature of their fever, and also keep track of how many days until the fever subsided, etc. The app could also track their medications taken.
+**In the spirit of preventiveness, a program such as this could be incorporated into an App along with a sickness diary, that also tracked other illnesses**, where the patient can enter info on when they were sick, as well details of the sickness and such. For instance if they had a fever, the app would also prompt them to record the temperature of their fever, and also keep track of how many days until the fever subsided, etc. The app could also track their medications taken.
 
-In this way, a log would be recorded of all their illnesses. 
+**In this way, a log would be recorded of all their illnesses. **
 
 This would reap the following additional benefits:
-- We would use that data to give them summary information about their health in the past 6 months or so, and if worrying trends were spotted, that could be highlighted to them right away, similar to the way the diabetes risk index program currently works. 
-- We would have the ability to spot trends in illnesses by locale. For instance let’s say we notice in the west, on a particular week, there’s a slight increase in ours users reporting having a cough/fever, that’s something we would be able to alert our users to. 
-- Trends could be observed between medications taken, and how long the illness took to subside. 
+- We would use that data to give them **summary information about their health** in the past 6 months or so, and **if worrying trends were spotted**, that could be highlighted to them right away, similar to the way the diabetes risk index program currently works. 
+- We would have the ability to **spot trends in illnesses by locale**. For instance let’s say we notice in the west, on a particular week, there’s a slight increase in ours users reporting having a cough/fever, that’s something we would be able to alert our users to. 
+- **Trends could be observed between medications taken, and how long the illness took to subside**. 
 
 ### Long-term Vision
-The long term vision of this goal would be to have a system in place where a user could look back on their last 10 years of health history, and view summary information like what was their highest peak fever in a certain year, what was the longest period of time in those 10 years that they went without having any illness (which might indicate to them that they were living a healthier lifestyle in that time), what period of time they had the most number of illnesses in, the kind of medications they took most frequently, etc.
+The long term vision of this goal would be to have a system in place where **a user could look back on their last 10 years of health history, and view summary information** like what was their highest peak fever in a certain year, what was the longest period of time in those 10 years that they went without having any illness (which might indicate to them that they were living a healthier lifestyle in that time), what period of time they had the most number of illnesses in, the kind of medications they took most frequently, etc.
 
 The following benefits would also be likely:
 - For medical professionals, this data could also improve invaluable in understanding patient profiles that make them more susceptible to various illnesses later in life. 
